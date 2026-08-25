@@ -1,0 +1,16 @@
+baseURL = "https://masoudkehradmandi.ir/"
+languageCode = "en"
+title = "My Blog"
+
+[module]
+  [[module.imports]]
+    path = "go.ngs.io/hugo-primer-blog"
+
+[params]
+  sidebar = true
+  recentPostsCount = 5
+  defaultTheme = "auto"
+  dateFormat = "2006-01-02"
+  showReadingTime = true
+  showAuthor = true
+  showShareButtons = true
