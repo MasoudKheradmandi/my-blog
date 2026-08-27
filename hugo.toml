@@ -1,6 +1,7 @@
-baseURL = "http://masoudkehradmandi.ir/"
-languageCode = "en"
-title = "My Blog"
+baseURL = "https://masoudkheradmandi.ir/"
+defaultContentLanguage = 'fa'
+title = "Masoud Kheradmandi"
+enableRobotsTXT = true
 
 [module]
   [[module.imports]]
@@ -14,7 +15,26 @@ title = "My Blog"
   showReadingTime = true
   showAuthor = true
   showShareButtons = true
+  author = "امیرمسعود خردمندی"
+  description = "وبلاگ امیرمسعود خردمندی؛ مطالبی درباره Python، Django، FastAPI، Backend و توسعه نرم‌افزار."
 
+  [[params.sidebarModules]]
+    partial = "tags"
+  
+  [[params.sidebarModules]]
+    partial = "categories"
+  
+  [params.social]
+    github = "MasoudKheradmandi"
+
+[[menus.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 3
+[[menus.main]]
+  name = "categories"
+  url = "/categories/"
+  weight = 2
 
 [observability]
 enabled = false
@@ -31,3 +51,26 @@ invocation_logs = true
 enabled = false
 persist = true
 head_sampling_rate = 1
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[related]
+threshold = 60
+includeNewer = true
+toLower = true
+
+[[related.indices]]
+name = "tags"
+weight = 100
+
+[[related.indices]]
+name = "keywords"
+weight = 80
+
+[[related.indices]]
+name = "date"
+weight = 10
+pattern = "2006"

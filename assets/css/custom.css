@@ -1,21 +1,67 @@
+/* =========================
+   RTL
+   ========================= */
+
+html {
+    direction: ltr;
+}
+
 body {
-    text-align: right;
+    direction: ltr;
 }
 
+/* محتوای سایت راست‌چین */
 main,
-article,
-.post,
-.post-content {
+footer {
     direction: rtl;
     text-align: right;
 }
 
-nav {
+/* Layout خود Primer باید LTR بماند */
+.Layout {
+    direction: ltr;
+}
+
+/* محتوای داخل Layout راست‌چین */
+.Layout-main,
+.Layout-sidebar {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Box ها */
+.Box {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Header - ساختار Layout دست نخورَد */
+.AppHeader {
+    direction: ltr;
+}
+
+.AppHeader-globalBar {
+    direction: ltr;
+}
+
+/* متن‌های Header */
+.AppHeader-nav {
     direction: rtl;
 }
 
+/* Footer */
+footer {
+    direction: rtl;
+}
+
+/* کدها همیشه LTR */
 pre,
 code {
     direction: ltr;
     text-align: left;
+}
+
+/* inline code */
+:not(pre)>code {
+    direction: ltr;
 }
