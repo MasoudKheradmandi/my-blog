@@ -1,0 +1,1 @@
+html{direction:ltr}body{direction:ltr}main,footer{direction:rtl;text-align:right}.Layout{direction:ltr}.Layout-main,.Layout-sidebar{direction:rtl;text-align:right}.Box{direction:rtl;text-align:right}.AppHeader{direction:ltr}.AppHeader-globalBar{direction:ltr}.AppHeader-nav{direction:rtl}footer{direction:rtl}pre,code{direction:ltr;text-align:left}:not(pre)>code{direction:ltr}
