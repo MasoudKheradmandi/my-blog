@@ -28,6 +28,11 @@ enableRobotsTXT = true
     github = "MasoudKheradmandi"
 
 [[menus.main]]
+  name = "MyCv"
+  url = "/posts/masoudkheradmandi/cv/"
+  weight = 4
+
+[[menus.main]]
   name = "Posts"
   url = "/posts/"
   weight = 3
