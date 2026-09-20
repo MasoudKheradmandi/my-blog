@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>شبکه on Masoud Kheradmandi</title>
+		<link>https://masoudkheradmandi.ir/categories/%D8%B4%D8%A8%DA%A9%D9%87/</link>
+		<description>Recent content in شبکه on Masoud Kheradmandi</description>
+		<generator>Hugo</generator>
+		<language>fa</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 20 Sep 2026 22:21:18 +0330</lastBuildDate>
+		
+			<atom:link href="https://masoudkheradmandi.ir/categories/%D8%B4%D8%A8%DA%A9%D9%87/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Nmap چیست؟ آموزش اسکن پورت و IP با Nmap</title>
+				<link>https://masoudkheradmandi.ir/posts/what-is-nmap/</link>
+				<pubDate>Sun, 20 Sep 2026 22:21:18 +0330</pubDate>
+				<guid>https://masoudkheradmandi.ir/posts/what-is-nmap/</guid>
+				<description>&lt;h1 id=&#34;nmap-چیه&#34;&gt;&lt;strong&gt;nmap&lt;/strong&gt; چیه؟&lt;/h1&gt;&#xA;&lt;p&gt;خیلی راحت و ساده بگم یه ابزار اوپن سورسه برای اسکن کردن &lt;strong&gt;ایپی&lt;/strong&gt; و &lt;strong&gt;پورت&lt;/strong&gt; و &lt;strong&gt;تشخیص&lt;/strong&gt; اینکه چه &lt;strong&gt;برنامه&lt;/strong&gt; هایی نصب هستن&lt;/p&gt;&#xA;&lt;h2 id=&#34;اسکن-پورت&#34;&gt;اسکن پورت&lt;/h2&gt;&#xA;&lt;p&gt;اسکن پورت که خب تکلیفش خیلی مشخصه&lt;/p&gt;&#xA;&lt;p&gt;چه پورت هایی روی سرور بازن؟&lt;/p&gt;&#xA;&lt;p&gt;مثلا پستگرس &lt;code&gt;5432&lt;/code&gt;&#xA;ردیس &lt;code&gt;6379&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;بهمون میگه این پورت های ip مورد نظر بازه&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;دستورش؟&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;nmap 192.168.1.10&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;خروجی:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;22/tcp   open   ssh&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;80/tcp   open   http&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;443/tcp  open   https&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;حالا-اسکن-کردن-ip-چیه&#34;&gt;حالا اسکن کردن ip چیه؟&lt;/h2&gt;&#xA;&lt;p&gt;شاید گیج بشین که ینی چی اسکن کردن IP&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

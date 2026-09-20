@@ -28,18 +28,19 @@ enableRobotsTXT = true
     github = "MasoudKheradmandi"
 
 [[menus.main]]
-  name = "MyCv"
-  url = "/posts/masoudkheradmandi/cv/"
-  weight = 4
-
-[[menus.main]]
   name = "Posts"
   url = "/posts/"
   weight = 3
+
 [[menus.main]]
   name = "categories"
   url = "/categories/"
   weight = 2
+
+[[menus.main]]
+  name = "MyCv"
+  url = "/posts/masoudkheradmandi/cv/"
+  weight = 1
 
 [observability]
 enabled = false

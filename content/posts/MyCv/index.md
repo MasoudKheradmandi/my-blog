@@ -12,7 +12,7 @@ categories = ['معرفی']
 ---
 
 
-[download-cv](https://drive.google.com/file/d/18W2nIlAo_UHRCXxZpf9NxXuCn5rONEI2/view?usp=sharing)
+[download-cv](https://drive.google.com/file/d/10gAWTj4Ler50XEFMkJRTynCABvJu5S5W/view?usp=sharing)
 
 
 ## Experience
