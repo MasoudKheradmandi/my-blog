@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Partialindex on Masoud Kheradmandi</title>
-		<link>https://masoudkheradmandi.ir/tags/partialindex/</link>
+		<link>http://localhost:1313/tags/partialindex/</link>
 		<description>Recent content in Partialindex on Masoud Kheradmandi</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Fri, 18 Sep 2026 18:48:45 +0330</lastBuildDate>
 		
-			<atom:link href="https://masoudkheradmandi.ir/tags/partialindex/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/partialindex/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>PartialIndex چیست؟</title>
-				<link>https://masoudkheradmandi.ir/posts/what-is-partial-index/</link>
+				<link>http://localhost:1313/posts/what-is-partial-index/</link>
 				<pubDate>Fri, 18 Sep 2026 18:48:45 +0330</pubDate>
-				<guid>https://masoudkheradmandi.ir/posts/what-is-partial-index/</guid>
+				<guid>http://localhost:1313/posts/what-is-partial-index/</guid>
 				<description>&lt;h3 id=&#34;ایندکس-جزئی-partial-index-چیست&#34;&gt;ایندکس جزئی (Partial Index) چیست؟&lt;/h3&gt;&#xA;&lt;p&gt;ایندکس جزئی یکی از قابلیت‌های پیشرفته در پایگاه‌های داده‌ است که به شما امکان می‌دهد تنها بخشی از رکوردهای جدول را ایندکس کنید، نه تمام آن‌ها(بهتر بگم ینی یک value خاص رو ایندکس میکنیم) این نوع ایندکس با استفاده از یک شرط خاص (مانند یک عبارت WHERE) تعیین می‌شود و فقط رکوردهایی که شرط ذکر شده را دارند اوورده میشود&lt;/p&gt;&#xA;&lt;p&gt;❗️مزایای ایندکس جزئی:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;عملکرد بهینه‌تر&lt;/strong&gt;: ایندکس جزئی حجم کمتری دارد و بنابراین جستجوهای مرتبط با شرط خاص سریع‌تر انجام می‌شوند.&lt;/p&gt;</description>
 			</item>
 	</channel>

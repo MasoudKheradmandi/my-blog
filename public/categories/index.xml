@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Categories on Masoud Kheradmandi</title>
-		<link>https://masoudkheradmandi.ir/categories/</link>
+		<link>http://localhost:1313/categories/</link>
 		<description>Recent content in Categories on Masoud Kheradmandi</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -10,28 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Sun, 20 Sep 2026 22:21:18 +0330</lastBuildDate>
+			<lastBuildDate>Sat, 26 Sep 2026 18:38:00 +0330</lastBuildDate>
 		
-			<atom:link href="https://masoudkheradmandi.ir/categories/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Database</title>
+				<link>http://localhost:1313/categories/database/</link>
+				<pubDate>Sat, 26 Sep 2026 18:38:00 +0330</pubDate>
+				<guid>http://localhost:1313/categories/database/</guid>
+				<description></description>
+			</item>
 			<item>
 				<title>شبکه</title>
-				<link>https://masoudkheradmandi.ir/categories/%D8%B4%D8%A8%DA%A9%D9%87/</link>
+				<link>http://localhost:1313/categories/%D8%B4%D8%A8%DA%A9%D9%87/</link>
 				<pubDate>Sun, 20 Sep 2026 22:21:18 +0330</pubDate>
-				<guid>https://masoudkheradmandi.ir/categories/%D8%B4%D8%A8%DA%A9%D9%87/</guid>
+				<guid>http://localhost:1313/categories/%D8%B4%D8%A8%DA%A9%D9%87/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>معرفی</title>
-				<link>https://masoudkheradmandi.ir/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/</link>
+				<link>http://localhost:1313/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/</link>
 				<pubDate>Fri, 18 Sep 2026 20:52:23 +0330</pubDate>
-				<guid>https://masoudkheradmandi.ir/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/</guid>
-				<description></description>
-			</item>
-			<item>
-				<title>Database</title>
-				<link>https://masoudkheradmandi.ir/categories/database/</link>
-				<pubDate>Fri, 18 Sep 2026 18:48:45 +0330</pubDate>
-				<guid>https://masoudkheradmandi.ir/categories/database/</guid>
+				<guid>http://localhost:1313/categories/%D9%85%D8%B9%D8%B1%D9%81%DB%8C/</guid>
 				<description></description>
 			</item>
 	</channel>

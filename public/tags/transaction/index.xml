@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Transaction on Masoud Kheradmandi</title>
-		<link>https://masoudkheradmandi.ir/tags/transaction/</link>
+		<link>http://localhost:1313/tags/transaction/</link>
 		<description>Recent content in Transaction on Masoud Kheradmandi</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Thu, 27 Aug 2026 19:41:10 +0330</lastBuildDate>
 		
-			<atom:link href="https://masoudkheradmandi.ir/tags/transaction/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/tags/transaction/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Transaction چیست؟</title>
-				<link>https://masoudkheradmandi.ir/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</link>
+				<link>http://localhost:1313/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</link>
 				<pubDate>Thu, 27 Aug 2026 19:41:10 +0330</pubDate>
-				<guid>https://masoudkheradmandi.ir/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</guid>
+				<guid>http://localhost:1313/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</guid>
 				<description>&lt;h1 id=&#34;transaction&#34;&gt;Transaction&lt;/h1&gt;&#xA;&lt;p&gt;تو این مقاله به یکی از پایه‌ایی ترین مفاهیم دیتابیس یعنی &lt;strong&gt;Transaction&lt;/strong&gt; می‌پردازیم.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transaction&lt;/strong&gt; چیه؟&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transaction&lt;/strong&gt; به ما این قابلیت رو میده تا بتونیم چندین عملیات رو در  قالب یک واحد یابهتر بگم یک بلوک اجرا کنیم.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;ما میتونیم چندین عملیات Read - Write رو با یک ترنزکشن انجام بدیم.&lt;/p&gt;&#xA;&lt;p&gt;خب حالا سوالی که پیش میاد اینکه که چرا باید این کار رو بکنیم؟&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;وقتی که میخوایم از صحت و کامل اجرا شدن یک عملیات مطمئن باشیم به شکلی که اگر اون عملیات کامل اجرا نشه اصلاً نمیخوایم اجرا بشه&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>
