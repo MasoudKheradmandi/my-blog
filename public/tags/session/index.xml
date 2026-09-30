@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Session on Masoud Kheradmandi</title>
-		<link>http://localhost:1313/tags/session/</link>
+		<link>https://masoudkheradmandi.ir/tags/session/</link>
 		<description>Recent content in Session on Masoud Kheradmandi</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Sat, 26 Sep 2026 18:38:00 +0330</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/tags/session/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://masoudkheradmandi.ir/tags/session/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>وقتی SQLAlchemy دیتای قدیمی را به ما برگرداند؟</title>
-				<link>http://localhost:1313/posts/advanced-sqlalchemy/</link>
+				<link>https://masoudkheradmandi.ir/posts/advanced-sqlalchemy/</link>
 				<pubDate>Sat, 26 Sep 2026 18:38:00 +0330</pubDate>
-				<guid>http://localhost:1313/posts/advanced-sqlalchemy/</guid>
+				<guid>https://masoudkheradmandi.ir/posts/advanced-sqlalchemy/</guid>
 				<description>&lt;p&gt;یه اتفاق خیلی عجیب برای ما توی پروداکشن افتاد که ساعت یک شب برای بخش خرید &lt;strong&gt;ارور 500&lt;/strong&gt; گرفتیم.&lt;/p&gt;&#xA;&lt;p&gt;حالا موضوع چی بود؟&lt;/p&gt;&#xA;&lt;p&gt;فروشگاه ما به این شکل بود که محصولات از طریق یه &lt;strong&gt;Provider&lt;/strong&gt; آپدیت موجودی و قیمت میشدن. تقریباً آپدیت هر محصول 5 ثانیه طول میکشید.&lt;/p&gt;&#xA;&lt;p&gt;ما توی فروشگاهمون یه سری محصولات خیلی ارزون هم داشتیم که کمتر از چند سنت بودن و هفته‌ای یک یا دوبار شارژ میشدن.&lt;/p&gt;</description>
 			</item>
 	</channel>

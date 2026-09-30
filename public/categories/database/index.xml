@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Database on Masoud Kheradmandi</title>
-		<link>http://localhost:1313/categories/database/</link>
+		<link>https://masoudkheradmandi.ir/categories/database/</link>
 		<description>Recent content in Database on Masoud Kheradmandi</description>
 		<generator>Hugo</generator>
 		<language>fa</language>
@@ -12,26 +12,26 @@
 		
 			<lastBuildDate>Sat, 26 Sep 2026 18:38:00 +0330</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/categories/database/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://masoudkheradmandi.ir/categories/database/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>وقتی SQLAlchemy دیتای قدیمی را به ما برگرداند؟</title>
-				<link>http://localhost:1313/posts/advanced-sqlalchemy/</link>
+				<link>https://masoudkheradmandi.ir/posts/advanced-sqlalchemy/</link>
 				<pubDate>Sat, 26 Sep 2026 18:38:00 +0330</pubDate>
-				<guid>http://localhost:1313/posts/advanced-sqlalchemy/</guid>
+				<guid>https://masoudkheradmandi.ir/posts/advanced-sqlalchemy/</guid>
 				<description>&lt;p&gt;یه اتفاق خیلی عجیب برای ما توی پروداکشن افتاد که ساعت یک شب برای بخش خرید &lt;strong&gt;ارور 500&lt;/strong&gt; گرفتیم.&lt;/p&gt;&#xA;&lt;p&gt;حالا موضوع چی بود؟&lt;/p&gt;&#xA;&lt;p&gt;فروشگاه ما به این شکل بود که محصولات از طریق یه &lt;strong&gt;Provider&lt;/strong&gt; آپدیت موجودی و قیمت میشدن. تقریباً آپدیت هر محصول 5 ثانیه طول میکشید.&lt;/p&gt;&#xA;&lt;p&gt;ما توی فروشگاهمون یه سری محصولات خیلی ارزون هم داشتیم که کمتر از چند سنت بودن و هفته‌ای یک یا دوبار شارژ میشدن.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>PartialIndex چیست؟</title>
-				<link>http://localhost:1313/posts/what-is-partial-index/</link>
+				<link>https://masoudkheradmandi.ir/posts/what-is-partial-index/</link>
 				<pubDate>Fri, 18 Sep 2026 18:48:45 +0330</pubDate>
-				<guid>http://localhost:1313/posts/what-is-partial-index/</guid>
+				<guid>https://masoudkheradmandi.ir/posts/what-is-partial-index/</guid>
 				<description>&lt;h3 id=&#34;ایندکس-جزئی-partial-index-چیست&#34;&gt;ایندکس جزئی (Partial Index) چیست؟&lt;/h3&gt;&#xA;&lt;p&gt;ایندکس جزئی یکی از قابلیت‌های پیشرفته در پایگاه‌های داده‌ است که به شما امکان می‌دهد تنها بخشی از رکوردهای جدول را ایندکس کنید، نه تمام آن‌ها(بهتر بگم ینی یک value خاص رو ایندکس میکنیم) این نوع ایندکس با استفاده از یک شرط خاص (مانند یک عبارت WHERE) تعیین می‌شود و فقط رکوردهایی که شرط ذکر شده را دارند اوورده میشود&lt;/p&gt;&#xA;&lt;p&gt;❗️مزایای ایندکس جزئی:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;عملکرد بهینه‌تر&lt;/strong&gt;: ایندکس جزئی حجم کمتری دارد و بنابراین جستجوهای مرتبط با شرط خاص سریع‌تر انجام می‌شوند.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Transaction چیست؟</title>
-				<link>http://localhost:1313/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</link>
+				<link>https://masoudkheradmandi.ir/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</link>
 				<pubDate>Thu, 27 Aug 2026 19:41:10 +0330</pubDate>
-				<guid>http://localhost:1313/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</guid>
+				<guid>https://masoudkheradmandi.ir/posts/transaction-%DA%86%DB%8C%D8%B3%D8%AA/</guid>
 				<description>&lt;h1 id=&#34;transaction&#34;&gt;Transaction&lt;/h1&gt;&#xA;&lt;p&gt;تو این مقاله به یکی از پایه‌ایی ترین مفاهیم دیتابیس یعنی &lt;strong&gt;Transaction&lt;/strong&gt; می‌پردازیم.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transaction&lt;/strong&gt; چیه؟&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transaction&lt;/strong&gt; به ما این قابلیت رو میده تا بتونیم چندین عملیات رو در  قالب یک واحد یابهتر بگم یک بلوک اجرا کنیم.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;ما میتونیم چندین عملیات Read - Write رو با یک ترنزکشن انجام بدیم.&lt;/p&gt;&#xA;&lt;p&gt;خب حالا سوالی که پیش میاد اینکه که چرا باید این کار رو بکنیم؟&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&lt;strong&gt;وقتی که میخوایم از صحت و کامل اجرا شدن یک عملیات مطمئن باشیم به شکلی که اگر اون عملیات کامل اجرا نشه اصلاً نمیخوایم اجرا بشه&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description>
 			</item>
 	</channel>

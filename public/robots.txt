@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /search/
 Disallow: /draft/
 
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://masoudkheradmandi.ir/sitemap.xml

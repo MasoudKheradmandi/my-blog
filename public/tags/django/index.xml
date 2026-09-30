@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Django on Masoud Kheradmandi</title>
+		<link>https://masoudkheradmandi.ir/tags/django/</link>
+		<description>Recent content in Django on Masoud Kheradmandi</description>
+		<generator>Hugo</generator>
+		<language>fa</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 29 Sep 2026 12:26:21 +0330</lastBuildDate>
+		
+			<atom:link href="https://masoudkheradmandi.ir/tags/django/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>CSRF چیست و چرا اهمیت دارد؟</title>
+				<link>https://masoudkheradmandi.ir/posts/what-is-csrf/</link>
+				<pubDate>Tue, 29 Sep 2026 12:26:21 +0330</pubDate>
+				<guid>https://masoudkheradmandi.ir/posts/what-is-csrf/</guid>
+				<description>&lt;h2 id=&#34;csrf-چیست-و-چرا-اهمیت-دارد&#34;&gt;Csrf چیست و چرا اهمیت دارد؟&lt;/h2&gt;&#xA;&lt;p&gt;این مقاله رو بخاطر این نوشتم که تا مدت زیادی حقیقتا خودمم نمیدونستم چرا باید از &lt;strong&gt;CSRF&lt;/strong&gt; استفاده کنم بنابراین تصمیم گرفتم خیلی مفصل تر راجع بهش صحبت کنم&lt;/p&gt;&#xA;&lt;p&gt;بریم از پایه توضیح اش بدیم:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;فرض کن تو در سایت masoudkheradmandi.ir لاگین کردی&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;em&gt;هرچند ما اصلا login نداریم تو سایت امون :)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;بعد من برای شمای کاربر در مرورگرت یه session قرار میدم&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;&#34;&gt;&lt;code data-lang=&#34;text&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sessionid=abc123&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;حالا شما وارد یه سایت دیگه میشی&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
