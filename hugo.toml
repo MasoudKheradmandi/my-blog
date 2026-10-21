@@ -83,4 +83,5 @@ pattern = "2006"
 
 
 faviconIco = "favicon.ico"
+publishDir = "docs"
 
